@@ -32,26 +32,26 @@ If this repo helps you, please give it a star.
 
 Selected for reach, founder relevance, and launch visibility.
 
-1. [Product Hunt](https://launchdirectories.com/directory/product-hunt) - Product discovery launch day traffic.
-2. [Hacker News](https://launchdirectories.com/directory/hacker-news) - Technical audience and strong referral effects.
-3. [Indie Hackers](https://launchdirectories.com/directory/indie-hackers) - Founder-focused launch and feedback.
-4. [BetaList](https://launchdirectories.com/directory/betalist) - Early-adopter discovery.
-5. [Peerlist](https://launchdirectories.com/directory/peerlist) - Builder/developer audience.
-6. [DevHunt](https://launchdirectories.com/directory/devhunt) - Developer tool launch visibility.
-7. [Fazier](https://launchdirectories.com/directory/fazier) - Startup discovery directory.
-8. [Uneed](https://launchdirectories.com/directory/uneed) - Product listing and launch exposure.
-9. [Startup Stash](https://launchdirectories.com/directory/startup-stash) - Startup resource discovery.
-10. [SaaSHub](https://launchdirectories.com/directory/saashub) - SaaS discovery and alternatives traffic.
-11. [AlternativeTo](https://launchdirectories.com/directory/alternativeto) - Alternative-intent user traffic.
-12. [Toolpilot](https://launchdirectories.com/directory/toolpilot) - Tool-focused listing directory.
-13. [Future Tools](https://launchdirectories.com/directory/future-tools) - AI/tool audience.
-14. [There Is An AI For That](https://launchdirectories.com/directory/there-s-an-ai-for-that) - AI use-case discovery traffic.
-15. [G2](https://launchdirectories.com/directory/g2) - B2B software visibility and credibility.
-16. [Capterra](https://launchdirectories.com/directory/capterra) - B2B buying-intent audience.
-17. [SourceForge](https://launchdirectories.com/directory/sourceforge) - Established software directory exposure.
-18. [SideProjectors](https://launchdirectories.com/directory/sideprojectors) - Indie side project audience.
-19. [Launching Next](https://launchdirectories.com/directory/launching-next) - Startup launch showcase.
-20. [Microlaunch](https://launchdirectories.com/directory/microlaunch) - Micro startup launch visibility.
+1. [Product Hunt](https://www.producthunt.com/) - Product discovery launch day traffic.
+2. [Hacker News](https://news.ycombinator.com/) - Technical audience and strong referral effects.
+3. [Indie Hackers](https://indiehackers.com/) - Founder-focused launch and feedback.
+4. [BetaList](https://betalist.com/) - Early-adopter discovery.
+5. [Peerlist](https://peerlist.io/) - Builder/developer audience.
+6. [DevHunt](https://devhunt.org/) - Developer tool launch visibility.
+7. [Fazier](https://fazier.com/) - Startup discovery directory.
+8. [Uneed](https://www.uneed.best) - Product listing and launch exposure.
+9. [Startup Stash](https://startupstash.com/) - Startup resource discovery.
+10. [SaaSHub](https://www.saashub.com/) - SaaS discovery and alternatives traffic.
+11. [AlternativeTo](https://alternativeto.net/) - Alternative-intent user traffic.
+12. [Toolpilot](https://www.toolpilot.ai/) - Tool-focused listing directory.
+13. [Future Tools](https://www.futuretools.io/) - AI/tool audience.
+14. [There Is An AI For That](https://theresanaiforthat.com/) - AI use-case discovery traffic.
+15. [G2](https://www.g2.com/) - B2B software visibility and credibility.
+16. [Capterra](https://www.capterra.com/) - B2B buying-intent audience.
+17. [SourceForge](https://sourceforge.net/) - Established software directory exposure.
+18. [SideProjectors](https://www.sideprojectors.com/) - Indie side project audience.
+19. [Launching Next](https://www.launchingnext.com/) - Startup launch showcase.
+20. [Microlaunch](https://microlaunch.net/) - Micro startup launch visibility.
 
 See full list for all entries: [docs/platforms/sites.md](docs/platforms/sites.md).
 
