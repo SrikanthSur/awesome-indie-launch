@@ -1,4 +1,4 @@
-# Subreddit 总表（Markdown）
+# Subreddit List (Markdown)
 
 | subreddit | url | topic |
 | --- | --- | --- |

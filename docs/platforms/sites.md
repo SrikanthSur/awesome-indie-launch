@@ -1,9 +1,9 @@
-# Launch 平台总表（Markdown）
+# Launch Platforms (Markdown)
 
-- 条目数量：222
+- Total entries: 222
 - Last updated: 2026-03-04
 
-## 平台清单
+## Platform List
 
 | Name | URL |
 | --- | --- |
