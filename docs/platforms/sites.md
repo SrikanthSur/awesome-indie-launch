@@ -1,6 +1,6 @@
 # Launch Platforms (Markdown)
 
-- Total entries: 222
+- Total entries: 223
 - Last updated: 2026-03-04
 
 ## Platform List
@@ -77,6 +77,7 @@
 | Reddit | https://www.reddit.com/ |
 | Resource Fyi | https://resource.fyi/ |
 | Saasbison | https://saasbison.com/ |
+| SaaSCity | https://saascity.io/ |
 | Saashub | https://www.saashub.com/ |
 | Saashunt | https://saashunt.best/ |
 | Saaspa Ge | https://www.saaspa.ge/ |
