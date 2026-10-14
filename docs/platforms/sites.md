@@ -68,6 +68,7 @@
 | Peerlist | https://peerlist.io/ |
 | Peerpush | https://peerpush.net/ |
 | Pitchwall | https://pitchwall.co/ |
+| Power CM Partners | https://partners.powercm-software.com/ |
 | Productburst | https://productburst.com/ |
 | Product Hunt | https://www.producthunt.com/ |
 | Promote Project | https://www.promoteproject.com/ |
