@@ -1,6 +1,6 @@
 # Launch Platforms (Markdown)
 
-- Total entries: 222
+- Total entries: 223
 - Last updated: 2026-03-04
 
 ## Platform List
@@ -72,6 +72,7 @@
 | Product Hunt | https://www.producthunt.com/ |
 | Promote Project | https://www.promoteproject.com/ |
 | Proofstories | https://proofstories.io/directory |
+| Radarmakers | https://radarmakers.com/ |
 | Rankinpublic Xyz | https://rankinpublic.xyz/ |
 | Rankyourai | https://rankyourai.com/ |
 | Reddit | https://www.reddit.com/ |
